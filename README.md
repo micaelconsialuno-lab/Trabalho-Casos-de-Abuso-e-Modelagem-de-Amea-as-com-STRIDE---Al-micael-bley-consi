@@ -1,0 +1,1 @@
+# Trabalho-Casos-de-Abuso-e-Modelagem-de-Amea-as-com-STRIDE---Al-micael-bley-consi
