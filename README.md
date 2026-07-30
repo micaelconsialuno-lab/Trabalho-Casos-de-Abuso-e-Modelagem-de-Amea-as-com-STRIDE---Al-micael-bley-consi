@@ -2,7 +2,7 @@
 
 Este repositório contém o trabalho da disciplina de Segurança da Informação.
 
-O sistema escolhido para análise foi um *Sistema de Agendamento de Consultas Médicas*.
+O sistema escolhido para análise foi um Sistema de Agendamento de Consultas Médicas.
 
 A documentação completa do trabalho encontra-se em:
 
